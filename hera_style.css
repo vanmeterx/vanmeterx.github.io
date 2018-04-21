@@ -1,0 +1,88 @@
+html {
+  height: 100%;
+}
+
+*{
+  color: white;
+  cursor: url('https://i.imgur.com/lXNtuqb.png'), auto !important;
+}
+
+body {
+  background-color: #999999;
+}
+
+header {
+  background-image: url('https://cdn.pixabay.com/photo/2012/04/14/12/51/greek-33811_960_720.png');
+  padding: 5px;
+  padding-top: 50px;
+  font-size: 14px ;
+  display: block;
+  border: 10px solid green;
+  border-radius: 9px;
+  text-align: right;
+}
+
+nav {
+  float: left;
+  font-size: 20px;
+  border-bottom: 4px solid red;
+  border-radius: 3px;
+  width: 100%;
+}
+
+nav ul {
+  float: left;
+  list-style-type: none;
+  width: 100%;
+}
+
+nav li {
+  float: left;
+  width: 25%;
+}
+
+nav li a {
+  display: block;
+  height: 2px;
+  padding: 12px 18px  18px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+a {
+  color: green ;
+}
+
+.hera{
+  float: left;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+section {
+  width: 80%;
+  margin: 0 auto;
+  clear: both;
+}
+
+aside {
+  width: 17%;
+  display: inline-block;
+  background-color:;
+  padding:;
+  min-height: 100%;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  color:;
+  clear: both;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
